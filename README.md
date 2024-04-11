@@ -1,1 +1,1 @@
-Projeto apra estudar basic autentication
+Projeto para estudar basic autentication
